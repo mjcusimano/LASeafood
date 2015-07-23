@@ -1,0 +1,171 @@
+/*
+Theme Name: Twenty Fourteen Child
+Description: Playground on child themes in Wordpress
+Template: twentyfourteen
+*/
+
+/* @import url("../twentyfourteen/style.css"); */
+
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #181616;
+	margin: 0px;
+}
+
+img, div { 
+    behavior: url(../twentyfourteen-child/htc/iepngfix.htc) 
+}
+
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #333333;
+}
+a:focus { 
+    outline:none; 
+}
+a:hover {
+	text-decoration: none;
+	color: #885F41;
+}
+a:active {
+	text-decoration: none;
+	color: #333333;
+}
+
+#apDiv1 {
+	position:absolute;
+	width:800px;
+	height:35px;
+	z-index:1;
+	visibility: hidden;
+	margin-left: 52px;
+}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+	color: #CC4C1D;
+	margin-bottom: -10px;
+}
+
+.background_special {
+	background-image: url(../twentyfourteen-child/images/catch_of_the_day_08.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.background_page {
+	background-image: url(../twentyfourteen-child/images/background_plain_02.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.background_content_top {
+	background-image: url(../twentyfourteen-child/images/background_page_content_09.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+.background_content_repeat {
+	background-image: url(../twentyfourteen-child/images/background_page_content_20.jpg);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+
+.background_secondary_repeat {
+	background-image: url(../twentyfourteen-child/images/background_body_secondary_repeat_03_05.jpg);
+	background-repeat: repeat-y;
+	background-position: left top;
+}
+
+.background_secondary_top {
+	background-image: url(../twentyfourteen-child/images/background_body_secondary_top_03.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+.background_home_info {
+	background-image: url(../twentyfourteen-child/images/background_home_info_area_18.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+.background_home {
+	background-image: url(../twentyfourteen-child/images/background_home2.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+.background_on_the_radar {
+	background-image: url(../twentyfourteen-child/images/on_the_radar_background_29.jpg);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+.background_photobook {
+	background-image: url(../twentyfourteen-child/images/background_photobook_32.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+
+.background_fish_finder {
+	background-image: url(../twentyfourteen-child/images/side_nav_fish_finder_07.jpg);
+	background-repeat: repeat-y;
+	background-position: center top;
+}
+
+.body_content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 17px;
+	color: #605a5a;
+}
+
+.special_content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 17px;
+	color: #FDEEEE;
+}
+
+.link_radar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9.2px;
+	color: #333333;
+	font-weight: bold;
+	text-decoration: none;
+	line-height: 16px;
+	margin-left: 10px;
+}
+.link_radar:visited {
+	text-decoration: none;
+	color: #333333;
+}
+.link_radar:hover {
+	text-decoration: none;
+	color: #885F41;
+}
+.link_radar:active {
+	text-decoration: none;
+	color: #333333;
+}
+
+
+
+
+
+
+
+
+
