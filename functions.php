@@ -337,7 +337,7 @@ function la_seafood_stay_connected_nav($size)
                                             <td><a href="<?php echo get_stylesheet_directory_uri(); ?>" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','<?php echo get_stylesheet_directory_uri(); ?>/images/stay_connected_over_28.png',1)"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/stay_connected_28.png" name="Image23" width="119" height="34" border="0" id="Image23" /></a></td>
                                         </tr>
                                         <tr>
-                                            <td><a href="http://www.facebook.com/profile.php?id=1851828069&amp;ref=nf" target="_blank" onmouseover="MM_swapImage('Image24','','<?php echo get_stylesheet_directory_uri(); ?>/images/stay_connected_over_30.png',1)" onmouseout="MM_swapImgRestore()"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/stay_connected_30.png" name="Image24" width="119" height="32" border="0" id="Image24" /></a></td>
+                                            <td><a href="https://www.facebook.com/HarlonsLASeafood" target="_blank" onmouseover="MM_swapImage('Image24','','<?php echo get_stylesheet_directory_uri(); ?>/images/stay_connected_over_30.png',1)" onmouseout="MM_swapImgRestore()"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/stay_connected_30.png" name="Image24" width="119" height="32" border="0" id="Image24" /></a></td>
                                         </tr>
                                         <tr>
                                             <td><a href="https://twitter.com/LAseafood" target="_blank" onmouseover="MM_swapImage('Image25','','<?php echo get_stylesheet_directory_uri(); ?>/images/stay_connected_over_31.png',1)" onmouseout="MM_swapImgRestore()"><img src="<?php echo get_stylesheet_directory_uri(); ?>/images/stay_connected_31.png" name="Image25" width="119" height="33" border="0" id="Image25" /></a></td>
@@ -376,8 +376,8 @@ function la_seafood_on_the_sonar_links()
 {
     ?>
 
-            <a href="<?php echo get_page_link(109); ?>" rel="{urlxfn}" class="link_radar">Great American&#8230;</a><br />
-            <a href="<?php echo get_page_link(107); ?>" rel="{urlxfn}" class="link_radar">Louisiana Seafood&#8230;</a><br />
+            <a href="http://gulfseafoodnews.com/" rel="{urlxfn}" class="link_radar">Gulf Seafood News</a><br />
+            <a href="<?php echo get_page_link(441); ?>" rel="{urlxfn}" class="link_radar">LRA Expo</a><br />
             <a href="<?php echo get_page_link(101); ?>" rel="{urlxfn}" class="link_radar">Now Delivering Seafood&#8230;</a><br />
             <a href="<?php echo get_page_link(103); ?>" rel="{urlxfn}" class="link_radar">Tripletail Recipe...</a><br />
     <?php    
@@ -440,7 +440,7 @@ function la_seafood_on_the_sonar_nav_front_page()
                                                             </tr>
                                                         </table>
                                                     </td>    
-                                                    <!-- mjc begin on_the_sonar fron page -->
+                                                    <!-- mjc begin on_the_sonar fron page - find sonar -->
   <?php    
 }
 
